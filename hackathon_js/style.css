@@ -1,5 +1,9 @@
 .graph {
-    border: 2px solid black;
-    height: 900%;
-    width: 100%;
+    top: 50%;
+    height: 30%;
+    width: 80%;
+    background-color:blue;
+
+    display: grid;
+    grid-template-columns: 1.96078431373% 1.96078431373%
 }
